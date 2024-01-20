@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Asma Siddhiqua Mohammad</h1>
 <h3 align="center">Senior Java full stack developer</h3>
 
-- 🔭 I’m currently working as **Graduate Teaching Assistant**
+- 🔭 I’m currently pursuing my Master's in Computer Science at Southern University and A&M College
 
 - 💬 Ask me about **Java, Angular, Microservices, SQL, GCP, AWS**
 
