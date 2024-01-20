@@ -1,4 +1,4 @@
-![Banner](https://github.com/[asmasidmd]/[asmasidmd]/blob/master/[ASMA SIDDHIQUA MOHAMMAD.png]?raw=true)
+
 <h1 align="center">Hi 👋, I'm Asma Siddhiqua Mohammad</h1>
 <h3 align="center">Senior Java full stack developer</h3>
 
