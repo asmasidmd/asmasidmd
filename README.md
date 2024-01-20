@@ -9,7 +9,6 @@
 
 - 📫 How to reach me **asmasiddhiqua.moh@sus.edu**
 
-<h3 align="left">Connect with me: </h3>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/asma-siddhiqua-mohammad-9778b01b1/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="your-linkedin-username" height="30" width="40" /></a>
