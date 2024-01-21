@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently pursuing my Master's in Computer Science at Southern University and A&M College
 
-- 💬 Ask me about **Java, Angular, Microservices, SQL, GCP, AWS**
+- 💬 Ask me about **Java, Angular, Springboot, Microservices, SQL, MongoDB, GCP, AWS**
 
 - 📫 How to reach me **asmasiddhiqua.moh@sus.edu**
 
